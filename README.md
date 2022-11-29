@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blen Shelly Sium</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/AZzk.gif">
+<img align="right" alt="coding" width="400" src="https://99px.ru/sstorage/86/2016/12/image_86031216135917556787.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blensium&label=Profile%20views&color=0e75b6&style=flat" alt="blensium" /> </p>
 
